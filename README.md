@@ -1,2 +1,2 @@
 # Quasar
-Ecology Bot, that 
+Bot that will help you make nature cleaner and life brighter!
